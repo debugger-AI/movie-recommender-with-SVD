@@ -1,6 +1,5 @@
 # movie-recommender-with-SVD
-SVD~ a movie recommender system
-The system will be designed to recommend movies to users based on their past movie ratings and will be trained on a dataset of movie ratings. The project will not involve the creation of a user interface, but rather focus on the development of the recommendation algorithm. The evaluation of the system will be based on standard evaluation metrics for recommender systems such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+The system will be designed to recommend movies to users based on their past movie ratings and will be trained on a dataset of movie ratings. The system will not involve the creation of a user interface, but rather focus on the development of the recommendation algorithm. The evaluation of the system will be based on standard evaluation metrics for recommender systems such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 3.1 Data Collection Techniques
 The dataset used in this project was obtained from the Kaggle website. It is a collection of user ratings for different movies, along with metadata such as movie titles, genres, release years and User_Id. The dataset contains 25m ratings from 162k users on 25kmovies. 
 
